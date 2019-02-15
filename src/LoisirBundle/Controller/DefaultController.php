@@ -18,5 +18,9 @@ class DefaultController extends Controller
     {
         return $this->render('@Loisir/Default/NotFound.html.twig');
     }
+    public function add_briAction()
+    {
+        return $this->render('@Loisir/Default/Bricolage.html.twig');
+    }
 
 }
