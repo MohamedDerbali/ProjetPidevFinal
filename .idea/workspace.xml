@@ -421,45 +421,6 @@
               <item name="ProjectPidev" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectPidev" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="EventBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Entity" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ProjectPidev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectPidev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="EventBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ProjectPidev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectPidev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="EventBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ProjectPidev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectPidev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="EventBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ProjectPidev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectPidev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="EventBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Default" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ProjectPidev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectPidev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="LoisirBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -711,12 +672,12 @@
       <workItem from="1549968135809" duration="34967000" />
       <workItem from="1550018111740" duration="3889000" />
       <workItem from="1550171735344" duration="602000" />
-      <workItem from="1550226865279" duration="5753000" />
+      <workItem from="1550226865279" duration="5886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139624000" />
+    <option name="totallyTimeSpent" value="139757000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
