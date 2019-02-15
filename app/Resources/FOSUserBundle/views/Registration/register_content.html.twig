@@ -1,0 +1,44 @@
+{% block content %}
+    {% trans_default_domain 'FOSUserBundle' %}
+
+    {{ form_start(form, {'method': 'post', 'action': path('fos_user_registration_register'), 'attr': {'class': 'fos_user_registration_register'}}) }}
+    </br>
+    <div class="div_reg">
+    <marquee behavior="alternate">Register Now</marquee>
+    <div class="form-group">
+    <label for="formGroupExampleInput">Nom</label>
+    <span class="form-control" id="formGroupExampleInput"> {{ form_widget(form.nom) }}</span>
+    <div class="form-group">
+    <label for="formGroupExampleInput">Prenom</label>
+    <span class="form-control" id="formGroupExampleInput"> {{ form_widget(form.prenom) }}</span>
+    <div class="form-group">
+        <label for="formGroupExampleInput">Email</label>
+        <span class="form-control" id="formGroupExampleInput">{{ form_widget(form.email) }}</span>
+        <div class="form-group">
+            <label for="formGroupExampleInput">Username</label>
+            <span class="form-control" id="formGroupExampleInput"> {{ form_widget(form.username) }}</span>
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput">Password</label>
+            <span class="form-control" id="formGroupExampleInput">  {{ form_widget(form.plainPassword.first) }}</span>
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput">ReType Password</label>
+            <span class="form-control" id="formGroupExampleInput">  {{ form_widget(form.plainPassword.second) }}</span>
+        </div>
+
+        <div class="form-group">
+            <label for="formGroupExampleInput">Role</label>
+            <span class="form-control" id="formGroupExampleInput">
+            {{ form_widget(form.roles, { 'separator': ',' }) }}
+            </span>
+        </div>
+
+
+
+        <div>
+            <input type="submit" value="{{ 'registration.submit'|trans }}" class="btn btn-primary"/>
+        </div>
+    </div>
+    {{ form_end(form) }}
+{% endblock %}

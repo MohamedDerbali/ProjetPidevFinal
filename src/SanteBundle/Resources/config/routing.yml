@@ -1,0 +1,8 @@
+sante_homepage:
+    path:     /
+    defaults: { _controller: SanteBundle:Default:index }
+
+
+rootingSante:
+    path:     /sante
+    defaults: { _controller: SanteBundle:Default:sante }

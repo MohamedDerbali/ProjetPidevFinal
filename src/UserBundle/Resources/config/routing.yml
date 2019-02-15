@@ -1,0 +1,7 @@
+admin:
+    path:     /admin/home
+    defaults: { _controller: UserBundle:Default:redirectadmin }
+user:
+    path:     /index
+    defaults: { _controller: UserBundle:Default:redirectuser }
+

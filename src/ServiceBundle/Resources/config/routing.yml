@@ -1,0 +1,9 @@
+service_homepage:
+    path:     /
+    defaults: { _controller: ServiceBundle:Default:index }
+rootingService:
+    path:     /service
+    defaults: { _controller: ServiceBundle:Default:service }
+
+
+

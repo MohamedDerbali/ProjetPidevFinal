@@ -1,0 +1,8 @@
+consoma_homepage:
+    path:     /
+    defaults: { _controller: ConsomaBundle:Default:index }
+
+
+rootingConsoma:
+    path:     /consoma
+    defaults: { _controller: ConsomaBundle:Default:consoma }

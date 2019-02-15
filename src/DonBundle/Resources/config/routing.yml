@@ -1,0 +1,6 @@
+don_homepage:
+    path:     /
+    defaults: { _controller: DonBundle:Default:index }
+rootingDon:
+    path:     /don
+    defaults: { _controller: DonBundle:Default:don }
