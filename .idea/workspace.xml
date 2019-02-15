@@ -591,7 +591,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EventBundle" />
+              <option name="myItemId" value="LoisirBundle" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -609,7 +609,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EventBundle" />
+              <option name="myItemId" value="LoisirBundle" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -632,19 +632,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\ProjectPidev\src\LoisirBundle\Entity" />
-      <recent name="C:\wamp64\www\ProjectPidev\src\DonBundle\Entity" />
-      <recent name="C:\wamp64\www\ProjectPidev\web\images\EventCategorie" />
-      <recent name="C:\wamp64\www\ProjectPidev\web\images" />
-      <recent name="C:\wamp64\www\ProjectPidev\web\assets\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\ProjectPidev\src\UserBundle\Listener" />
       <recent name="C:\wamp64\www\ProjectPidev\app\Resources\FOSUserBundle\views\Registration" />
       <recent name="C:\wamp64\www\ProjectPidev\app\Resources\FOSUserBundle\views" />
       <recent name="C:\wamp64\www\ProjectPidev\src\LoisirBundle\Resources\views\Default" />
       <recent name="C:\wamp64\www\ProjectPidev\src\LoisirBundle\Resources\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\ProjectPidev\src\LoisirBundle\Entity" />
+      <recent name="C:\wamp64\www\ProjectPidev\src\DonBundle\Entity" />
+      <recent name="C:\wamp64\www\ProjectPidev\web\images\EventCategorie" />
+      <recent name="C:\wamp64\www\ProjectPidev\web\images" />
+      <recent name="C:\wamp64\www\ProjectPidev\web\assets\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -760,17 +760,25 @@
       <workItem from="1550226865279" duration="5886000" />
 =======
       <workItem from="1550226865279" duration="4488000" />
+<<<<<<< HEAD
       <workItem from="1550232660857" duration="130000" />
 >>>>>>> 9e547127d6af3e6f1a46b1b740489e5b70b9f73b
+=======
+      <workItem from="1550232660857" duration="816000" />
+>>>>>>> 91b7e8c29822b363e9a66dde77c6a3b37cf066d5
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="139757000" />
 =======
     <option name="totallyTimeSpent" value="138489000" />
 >>>>>>> 9e547127d6af3e6f1a46b1b740489e5b70b9f73b
+=======
+    <option name="totallyTimeSpent" value="139175000" />
+>>>>>>> 91b7e8c29822b363e9a66dde77c6a3b37cf066d5
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -799,9 +807,8 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
 =======
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18835099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18835099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5046875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
