@@ -11,6 +11,9 @@ notfn:
 rootingLoisir:
     path:     /loisir
     defaults: { _controller: LoisirBundle:Default:hello }
+Bricolage_add:
+    path:     /bricolage_add
+    defaults: { _controller: LoisirBundle:Default:add_bri }
 
 
 
