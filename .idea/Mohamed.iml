@@ -47,6 +47,17 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Examen" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/composer.phar/vendor/symfony/console/Input" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/composer.phar/vendor/symfony/console/Input" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
